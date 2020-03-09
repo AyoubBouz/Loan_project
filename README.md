@@ -1,7 +1,3 @@
----
-
-
----
 
 <p><em>Build a model that can predict whether or not a borrower will pay back their loan (predict if the loan gonna be ‘Fully Paid’ or ‘Charged Off’) with a basic ANN,</em><br>
 Passing through:</p>

@@ -8,5 +8,5 @@ Passing through:
 -Creating and training the model
 -Model Evaluation
 
-## Using: Pandas,Tensorflow,Keras,seaborn
+## Using: Pandas,Keras API,seaborn
 ## Data: lending club loan data from Kaggle
